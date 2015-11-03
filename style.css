@@ -1,0 +1,11 @@
+div {
+  width: auto;
+  height: auto;
+  background-color: rgb(13, 103, 117);
+}
+
+
+img {
+  width: 500px;
+  display: inline-block;
+}
